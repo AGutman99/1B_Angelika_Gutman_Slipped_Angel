@@ -671,6 +671,7 @@ GameObject:
   m_Component:
   - component: {fileID: 207650884}
   - component: {fileID: 207650885}
+  - component: {fileID: 207650886}
   m_Layer: 0
   m_Name: Spikes
   m_TagString: Instant Kill
@@ -745,6 +746,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &207650886
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207650883}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.81275237}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 2.125, y: 1.875}
+    newSize: {x: 2.125, y: 1.875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.125, y: 1.6255047}
+  m_EdgeRadius: 0
 --- !u!1 &215682201
 GameObject:
   m_ObjectHideFlags: 0
@@ -12743,6 +12770,7 @@ GameObject:
   m_Component:
   - component: {fileID: 733480783}
   - component: {fileID: 733480784}
+  - component: {fileID: 733480785}
   m_Layer: 0
   m_Name: Spikes (2)
   m_TagString: Instant Kill
@@ -12817,6 +12845,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &733480785
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 733480782}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.8162985}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 2.125, y: 1.875}
+    newSize: {x: 2.125, y: 1.875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.125, y: 1.632597}
+  m_EdgeRadius: 0
 --- !u!4 &827650488 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 683785324854098397, guid: cfcba7d19570cbb4fb2dcee3dd2b2ee0, type: 3}
@@ -55750,7 +55804,7 @@ GameObject:
   - component: {fileID: 1058871181}
   m_Layer: 0
   m_Name: Danger Zones
-  m_TagString: Untagged
+  m_TagString: Instant Kill
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56268,7 +56322,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1220218803}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -55, y: -1, z: -0.119124204}
+  m_LocalPosition: {x: -54, y: -1, z: -0.119124204}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -56285,6 +56339,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1229541562}
   - component: {fileID: 1229541563}
+  - component: {fileID: 1229541564}
   m_Layer: 0
   m_Name: Spikes (1)
   m_TagString: Instant Kill
@@ -56359,6 +56414,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &1229541564
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1229541561}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.8106148}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 2.125, y: 1.875}
+    newSize: {x: 2.125, y: 1.875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.125, y: 1.6212296}
+  m_EdgeRadius: 0
 --- !u!1 &1234695525
 GameObject:
   m_ObjectHideFlags: 3
@@ -59645,6 +59726,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2012189989}
   - component: {fileID: 2012189990}
+  - component: {fileID: 2012189991}
   m_Layer: 0
   m_Name: Spikes (3)
   m_TagString: Instant Kill
@@ -59719,6 +59801,32 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!61 &2012189991
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2012189988}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.8154949}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 2.125, y: 1.875}
+    newSize: {x: 2.125, y: 1.875}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.125, y: 1.6309898}
+  m_EdgeRadius: 0
 --- !u!1 &2041516678
 GameObject:
   m_ObjectHideFlags: 0
