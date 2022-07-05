@@ -7,6 +7,7 @@ TagManager:
   - Game Manager
   - Player Start
   - Instant Kill
+  - Key
   layers:
   - Default
   - TransparentFX
