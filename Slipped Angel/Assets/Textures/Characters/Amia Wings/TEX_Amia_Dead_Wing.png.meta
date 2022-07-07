@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: a5f1522fdbb7cbb458fbdecfed65aa68
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad474f3cd2df9b40825ecb428cb238b
+      internalID: 1679188157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c535ac66ab00b4192e1d546a05c8be
+      internalID: 785427236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f858c0e4e3a76649a90c87320586219
+      internalID: 1202635811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307864c2c6c01b94e8b0fe09df1d97af
+      internalID: 1927661360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15f6e62c8b1c54b8145a1089fae77a
+      internalID: -651693297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9d9043410d6e4296996888891915d
+      internalID: 1969847369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc08f18e8061a242ac40496ac13b2e7
+      internalID: -259057502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10102760ffd53c145b7dfdcf58367f8b
+      internalID: -2129897610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53315d4aef18645a7ad3fa0052c4fb
+      internalID: 1993990797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86efbc292b67ba142a88202d2d63bf03
+      internalID: -1402571262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8139078d7bfe3d49b45f082701adc45
+      internalID: -285995399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a747a20ec3614d872cc3cf36b58fa
+      internalID: -1357686076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abf7648941f2f24cbc878efbaa04928
+      internalID: 2017292080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4221b6fe3d054d90055b3dde2b658
+      internalID: -2075411743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc08e6b4ba4f14db7d145c0745f18f
+      internalID: 1252142886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429cb2587a34abc44a4df29462260209
+      internalID: 1526966257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_Wing_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c25db52f541f42a5855a4330163de
+      internalID: 1987821790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TEX_Amia_Dead_Wing_12: 2017292080
+      TEX_Amia_Dead_Wing_2: 1202635811
+      TEX_Amia_Dead_Wing_6: -259057502
+      TEX_Amia_Dead_Wing_4: -651693297
+      TEX_Amia_Dead_Wing_5: 1969847369
+      TEX_Amia_Dead_Wing_8: 1993990797
+      TEX_Amia_Dead_Wing_3: 1927661360
+      TEX_Amia_Dead_Wing_7: -2129897610
+      TEX_Amia_Dead_Wing_11: -1357686076
+      TEX_Amia_Dead_Wing_0: 1679188157
+      TEX_Amia_Dead_Wing_9: -1402571262
+      TEX_Amia_Dead_Wing_16: 1987821790
+      TEX_Amia_Dead_Wing_15: 1526966257
+      TEX_Amia_Dead_Wing_10: -285995399
+      TEX_Amia_Dead_Wing_13: -2075411743
+      TEX_Amia_Dead_Wing_14: 1252142886
+      TEX_Amia_Dead_Wing_1: 785427236
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

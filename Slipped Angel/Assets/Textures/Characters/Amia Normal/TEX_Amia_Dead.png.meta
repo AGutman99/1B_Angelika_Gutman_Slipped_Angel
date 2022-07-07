@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: f1b776e3f68a606468640f47d0b50cfd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd29c505d0f7a41bfcca76c6badf47
+      internalID: 695057442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb059f1ecc4624eabf233df5b4f309
+      internalID: -1917142034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e3277b2b390ec449b228ce0aa8df61
+      internalID: -2033253395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95935bf79e02b34897b7e13b5cfaed2
+      internalID: -1267028883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5f3ef72ddf7843b2380dd1e7270c1
+      internalID: -2025883701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02394dadf0cdbc42a5521b717fb1c5a
+      internalID: 1298836293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6adf4c9e9f6a5547bb072b2e60448ab
+      internalID: -407317908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd14f8d27e12f646b8876d5615cc3dc
+      internalID: -430369471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd0476ec847e041bc919fed2b2df56
+      internalID: 1959825405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c09ac1e5619b334cabe92a72b811d0a
+      internalID: 382850534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_10
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b99c8e79a5df947997bd7ec3b1e1d9
+      internalID: 258240243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015e72a8877c2e847b02ab4e257d91fd
+      internalID: -1318292255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f8e2076381a1b4c8c84eb31cb35792
+      internalID: 1150979087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f4ce9b69ec9248b228098a6ca6065
+      internalID: -929889006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9720d9c1e684e9941890bffb3aa8619c
+      internalID: 187129941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b2863ee869f6428248d39709d55ea
+      internalID: -237839519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Amia_Dead_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ae5c9d717b5348a8c3fd6f20a2b79
+      internalID: -1598477322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TEX_Amia_Dead_15: -237839519
+      TEX_Amia_Dead_3: -1267028883
+      TEX_Amia_Dead_11: -1318292255
+      TEX_Amia_Dead_12: 1150979087
+      TEX_Amia_Dead_5: 1298836293
+      TEX_Amia_Dead_7: -430369471
+      TEX_Amia_Dead_2: -2033253395
+      TEX_Amia_Dead_8: 1959825405
+      TEX_Amia_Dead_10: 258240243
+      TEX_Amia_Dead_0: 695057442
+      TEX_Amia_Dead_13: -929889006
+      TEX_Amia_Dead_14: 187129941
+      TEX_Amia_Dead_1: -1917142034
+      TEX_Amia_Dead_9: 382850534
+      TEX_Amia_Dead_16: -1598477322
+      TEX_Amia_Dead_6: -407317908
+      TEX_Amia_Dead_4: -2025883701
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
