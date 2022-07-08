@@ -167,27 +167,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Miscellaneous_3
-      rect:
-        serializedVersion: 2
-        x: 275
-        y: 128
-        width: 10
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c200ac23a08506e4c8575d055a625e1b
-      internalID: 1162651951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: TEX_Prop_Miscellaneous_4
       rect:
         serializedVersion: 2
@@ -225,27 +204,6 @@ TextureImporter:
       bones: []
       spriteID: ae81ee71fd0d4984f9a8a5c45fbd896d
       internalID: -1927636805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Prop_Miscellaneous_6
-      rect:
-        serializedVersion: 2
-        x: 243
-        y: 128
-        width: 10
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 401f0583aa8e15f4297a506b6640594b
-      internalID: 2022344930
       vertices: []
       indices: 
       edges: []
@@ -330,48 +288,6 @@ TextureImporter:
       bones: []
       spriteID: 214a1a7296895c242bc0b3b0b92d422d
       internalID: -963892342
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Prop_Miscellaneous_11
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 112
-        width: 14
-        height: 2
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 711d08843e3b72c41a12696139247333
-      internalID: -542760931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Prop_Miscellaneous_12
-      rect:
-        serializedVersion: 2
-        x: 289
-        y: 112
-        width: 14
-        height: 2
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a34cd9fef9faa24084ec139399023aa
-      internalID: -2122889853
       vertices: []
       indices: 
       edges: []
@@ -502,6 +418,7 @@ TextureImporter:
       TEX_Prop_Miscellaneous_2: 2131164443
       TEX_Prop_Miscellaneous_5: -1927636805
       TEX_Prop_Miscellaneous_11: -542760931
+      TEX_Prop_Miscellaneous_18: -732819280
       TEX_Prop_Miscellaneous_9: 791545981
       TEX_Prop_Miscellaneous_3: 1162651951
       TEX_Prop_Miscellaneous_6: 2022344930

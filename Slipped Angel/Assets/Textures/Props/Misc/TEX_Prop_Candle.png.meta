@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 17e2246d2fb83c140b456e337cf12a60
+guid: 2bf2122385f1b2246abf9899637b7797
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_0
+      name: TEX_Prop_Candle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 566557d4b5dc90e418b19f04a5bd11d3
-      internalID: -676627635
+      spriteID: 34b924b8a2d1cb9469ea2394350e4249
+      internalID: 1614114464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_1
+      name: TEX_Prop_Candle_1
       rect:
         serializedVersion: 2
-        x: 35
+        x: 16
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9151af3cfb0e6b44e908d7ef172aba91
-      internalID: 1044820173
+      spriteID: 47d81454294ede742bb615e32ac04cf8
+      internalID: -78177666
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_2
+      name: TEX_Prop_Candle_2
       rect:
         serializedVersion: 2
-        x: 70
+        x: 32
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e69fcc53e8fd34db48665f2e650fba
-      internalID: -2137492519
+      spriteID: 57d5f6fd479513945b2aee8635142b2c
+      internalID: 796861111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_3
+      name: TEX_Prop_Candle_3
       rect:
         serializedVersion: 2
-        x: 105
+        x: 48
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 20
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d98e17332d1126c4fa88d4f8b4ad1e31
-      internalID: -743647285
+      spriteID: 61de965e2be3d7c41a7658b101023627
+      internalID: -175417111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Prop_Candle_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e47a46ef8d795f45b9cb015352f729f
+      internalID: -1123062320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Prop_Candle_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1f4f8a6106cfd4195273ac3076c0ca
+      internalID: 687953207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEX_Prop_Candle_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e338219d2354a2144a2b45f62f07dd88
+      internalID: -868665390
       vertices: []
       indices: 
       edges: []
@@ -198,10 +261,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TEX_Prop_Chandelier_1: 1044820173
-      TEX_Prop_Chandelier_0: -676627635
-      TEX_Prop_Chandelier_2: -2137492519
-      TEX_Prop_Chandelier_3: -743647285
+      TEX_Prop_Candle_0: 1614114464
+      TEX_Prop_Candle_5: 687953207
+      TEX_Prop_Candle_2: 796861111
+      TEX_Prop_Candle_1: -78177666
+      TEX_Prop_Candle_6: -868665390
+      TEX_Prop_Candle_4: -1123062320
+      TEX_Prop_Candle_3: -175417111
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

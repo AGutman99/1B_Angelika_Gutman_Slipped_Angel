@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 17e2246d2fb83c140b456e337cf12a60
+guid: adc83cdcfa7f91c47962f4c2e3e2a9ea
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_0
+      name: TEX_Prop_Red Eyes_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 566557d4b5dc90e418b19f04a5bd11d3
-      internalID: -676627635
+      spriteID: 7ed09cffe42a19f41a025a03c7f94960
+      internalID: 919050220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_1
+      name: TEX_Prop_Red Eyes_1
       rect:
         serializedVersion: 2
-        x: 35
+        x: 16
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9151af3cfb0e6b44e908d7ef172aba91
-      internalID: 1044820173
+      spriteID: 643d60587aeda5542a3b7a0dfd4fcaa8
+      internalID: -1632669548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_2
+      name: TEX_Prop_Red Eyes_2
       rect:
         serializedVersion: 2
-        x: 70
+        x: 48
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e69fcc53e8fd34db48665f2e650fba
-      internalID: -2137492519
+      spriteID: a1697e5ca16c1d14cb3c8f4ea0203a46
+      internalID: 968349966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Chandelier_3
+      name: TEX_Prop_Red Eyes_3
       rect:
         serializedVersion: 2
-        x: 105
+        x: 64
         y: 0
-        width: 35
-        height: 25
+        width: 16
+        height: 16
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d98e17332d1126c4fa88d4f8b4ad1e31
-      internalID: -743647285
+      spriteID: 249ee4000003a74468a7219bb05877b3
+      internalID: -214664689
       vertices: []
       indices: 
       edges: []
@@ -198,10 +198,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TEX_Prop_Chandelier_1: 1044820173
-      TEX_Prop_Chandelier_0: -676627635
-      TEX_Prop_Chandelier_2: -2137492519
-      TEX_Prop_Chandelier_3: -743647285
+      TEX_Prop_Red Eyes_0: 919050220
+      TEX_Prop_Red Eyes_3: -214664689
+      TEX_Prop_Red Eyes_2: 968349966
+      TEX_Prop_Red Eyes_1: -1632669548
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
