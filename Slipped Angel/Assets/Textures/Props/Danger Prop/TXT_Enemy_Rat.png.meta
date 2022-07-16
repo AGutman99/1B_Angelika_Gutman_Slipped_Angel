@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f223c6c21876d0c42a6bc124479bedf4
+guid: 2b32d0c914d715c40bcdbca3b12bc95c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,106 +104,64 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TEX_Prop_Torch_0
+      name: TXT_Enemy_Rat_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e821a29394d7074aa440fcc1334e3fb
-      internalID: -503016126
+      spriteID: a2460372688c14c4ebda4a01326a5eac
+      internalID: 1960368833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Torch_1
+      name: TXT_Enemy_Rat_1
       rect:
         serializedVersion: 2
         x: 16
         y: 0
         width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32447099335874742b5c1a74706838e1
-      internalID: 1486731865
+      spriteID: 4de432f5288c9c349a9cafc1fd69a940
+      internalID: -472705628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TEX_Prop_Torch_2
+      name: TXT_Enemy_Rat_2
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02146f02ea53db6468c2b268f943c348
-      internalID: -1214757137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Prop_Torch_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0eeb467435bfdd841b4ce91a4100dcb8
-      internalID: -1474788742
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TEX_Prop_Torch_4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2819aa69b0e10494f90a0528434a5600
-      internalID: 1532541550
+      spriteID: 1e07a2f796ec3a04797bd496e1f11892
+      internalID: -988967847
       vertices: []
       indices: 
       edges: []
@@ -219,11 +177,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TEX_Prop_Torch_2: -1214757137
-      TEX_Prop_Torch_1: 1486731865
-      TEX_Prop_Torch_3: -1474788742
-      TEX_Prop_Torch_4: 1532541550
-      TEX_Prop_Torch_0: -503016126
+      TXT_Enemy_Rat_0: 1960368833
+      TXT_Enemy_Rat_1: -472705628
+      TXT_Enemy_Rat_2: -988967847
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

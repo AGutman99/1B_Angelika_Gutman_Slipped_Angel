@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6524077973611519347}
   - component: {fileID: 6524077973611519356}
   m_Layer: 0
-  m_Name: Goal Key
+  m_Name: Door Key
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
