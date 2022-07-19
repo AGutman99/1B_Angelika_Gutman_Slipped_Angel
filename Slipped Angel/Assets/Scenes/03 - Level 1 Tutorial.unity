@@ -44690,7 +44690,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1220218803}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -47, y: 3, z: -0.119124204}
+  m_LocalPosition: {x: -47, y: 3.125, z: -0.119124204}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -44968,9 +44968,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8046152709429774688, guid: b742cca7bdd832b43a26d359ad1509e5, type: 3}
       propertyPath: m_text
-      value: 'Amia lost her wings
-
-        help her to find them'
+      value: "Amia lost \nher  wings \nhelp her \nto find them"
       objectReference: {fileID: 0}
     - target: {fileID: 8046152709429774688, guid: b742cca7bdd832b43a26d359ad1509e5, type: 3}
       propertyPath: m_margin.x
