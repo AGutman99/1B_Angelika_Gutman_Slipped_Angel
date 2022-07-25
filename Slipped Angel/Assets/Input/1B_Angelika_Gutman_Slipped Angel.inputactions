@@ -156,7 +156,7 @@
                 {
                     "name": "",
                     "id": "f9412c5d-27e9-4dfb-a796-5052a3852698",
-                    "path": "<Gamepad>/leftStick/y",
+                    "path": "<Gamepad>/rightStick/y",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
