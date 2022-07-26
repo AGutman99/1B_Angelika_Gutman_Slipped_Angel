@@ -62234,7 +62234,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8046152709429774688, guid: b742cca7bdd832b43a26d359ad1509e5, type: 3}
       propertyPath: m_text
-      value: "Press Space \nor south button \nto jump"
+      value: "Press Space \nor west button \nto jump"
       objectReference: {fileID: 0}
     - target: {fileID: 8046152709429774688, guid: b742cca7bdd832b43a26d359ad1509e5, type: 3}
       propertyPath: m_Enabled

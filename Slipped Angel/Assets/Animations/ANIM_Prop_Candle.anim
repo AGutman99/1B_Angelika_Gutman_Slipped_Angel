@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ANIM_Prop_Chandelier
+  m_Name: ANIM_Prop_Candle
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -31,16 +31,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 0.4
-        inSlope: -1.1999999
-        outSlope: -1.1999999
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.16666667
-        value: 0.3
+        value: 0.5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -48,8 +39,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.25
+        time: 0.16666667
         value: 0.3
+        inSlope: -1.8000002
+        outSlope: -1.8000002
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: 0.2
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -58,7 +58,25 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 0.4
+        value: 0.3
+        inSlope: 1.2
+        outSlope: 1.2
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5833333
+        value: 0.3
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -75,15 +93,19 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -676627635, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
+      value: {fileID: 1614114464, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
     - time: 0.083333336
-      value: {fileID: 1044820173, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
+      value: {fileID: -78177666, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
     - time: 0.16666667
-      value: {fileID: -2137492519, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
+      value: {fileID: 796861111, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
     - time: 0.25
-      value: {fileID: -743647285, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
+      value: {fileID: -175417111, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
     - time: 0.33333334
-      value: {fileID: -743647285, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
+      value: {fileID: -1123062320, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - time: 0.41666666
+      value: {fileID: 687953207, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - time: 0.5
+      value: {fileID: -868665390, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -110,17 +132,19 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -676627635, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
-    - {fileID: 1044820173, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
-    - {fileID: -2137492519, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
-    - {fileID: -743647285, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
-    - {fileID: -743647285, guid: 17e2246d2fb83c140b456e337cf12a60, type: 3}
+    - {fileID: 1614114464, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - {fileID: -78177666, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - {fileID: 796861111, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - {fileID: -175417111, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - {fileID: -1123062320, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - {fileID: 687953207, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
+    - {fileID: -868665390, guid: 2bf2122385f1b2246abf9899637b7797, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.4166667
+    m_StopTime: 0.5833333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -150,16 +174,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.083333336
-        value: 0.4
-        inSlope: -1.1999999
-        outSlope: -1.1999999
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      - serializedVersion: 3
-        time: 0.16666667
-        value: 0.3
+        value: 0.5
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -167,8 +182,17 @@ AnimationClip:
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
-        time: 0.25
+        time: 0.16666667
         value: 0.3
+        inSlope: -1.8000002
+        outSlope: -1.8000002
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.25
+        value: 0.2
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -177,7 +201,25 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: 0.4
+        value: 0.3
+        inSlope: 1.2
+        outSlope: 1.2
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5
+        value: 0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 136
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 0.5833333
+        value: 0.3
         inSlope: 0
         outSlope: 0
         tangentMode: 136
