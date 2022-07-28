@@ -767,7 +767,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: -2981349119928628542, guid: 0603a9c97b0ecac409bbb7ff56e20203, type: 2}
   m_audioClip: {fileID: 8300000, guid: 94950ff68bab6394ab7a598ff58b04ee, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -58943,7 +58943,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Musix
+  m_text: Music
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4bf9f643072148e4eb1bf94461bda9c2, type: 2}
   m_sharedMaterial: {fileID: -6865555551300282137, guid: 4bf9f643072148e4eb1bf94461bda9c2, type: 2}
@@ -59856,7 +59856,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1220218803}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -47, y: 3.125, z: -0.119124204}
+  m_LocalPosition: {x: -47, y: 3.0625, z: -0.119124204}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
